@@ -1,0 +1,8 @@
+[
+	{
+		"remote":"github",
+		"repository":"Diwas007/android_kernel_samsung_universal7570",
+		"target_path":"kernel/samsung/exynos7570",
+		"revision":"master"
+	}
+]
